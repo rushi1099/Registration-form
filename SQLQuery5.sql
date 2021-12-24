@@ -1,0 +1,4 @@
+ALTER LOGIN sa ENABLE ;  
+GO  
+ALTER LOGIN sa WITH PASSWORD = 'Test@4321' ;  
+GO  
